@@ -1,5 +1,13 @@
 ### Hi there 👋
+🔭 I’m currently working on web apps (Laravel with Vue.js, SCSS, JQuery, Bootstrap, ...), desktop apps (Electron with Vue.js, Java).
 
+🌱 I’m currently learning NativeScript.
+
+💬 Ask me about any scripting/programming language inside this list: Java, JavaScript, ~ LUA, C#. I am NOT a Python-like programmer!
+
+📫 How to reach me: [ettore9538@gmail.com](mailto:ettore9538@gmail.com).
+
+[![Ettore's github stats](https://github-readme-stats.vercel.app/api?username=iosonoagenda)](https://github.com/iosonoagenda/github-readme-stats)
 <!--
 **iosonoagenda/iosonoagenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
