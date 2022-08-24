@@ -7,6 +7,8 @@
 
 📫 How to reach me: [ettore9538@gmail.com](mailto:ettore9538@gmail.com).
 
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ettore-ongaro-8aa419193" target="_blank">Follow on LinkedIn</a>
+
 [![Ettore's github stats](https://github-readme-stats.vercel.app/api?username=iosonoagenda)](https://github.com/iosonoagenda/github-readme-stats)
 <!--
 **iosonoagenda/iosonoagenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
