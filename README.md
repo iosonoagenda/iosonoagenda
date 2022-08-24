@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning NativeScript.
 
-💬 Ask me about any scripting/programming language inside this list: Java, JavaScript, ~ LUA, C#. I am NOT a Python-like programmer!
+💬 Ask me about any scripting/programming language inside this list: Java, JavaScript, ~ LUA, C#. I am NOT a Python-like developer!
 
 📫 How to reach me: [ettore9538@gmail.com](mailto:ettore9538@gmail.com).
 
