@@ -3,7 +3,7 @@
 
 👯 I’m looking to collaborate on see above
 
-💬 Ask me about any language inside this list: Java, PHP, HTML/(S)CSS/JavaScript, LUA, C#.
+💬 Ask me about any language inside this list: Java, PHP, HTML/(S)CSS/JavaScript, LUA, C#, Shell (Linux).
 
 📫 How to reach me: [Contact](mailto:support@infong.tech).
 
