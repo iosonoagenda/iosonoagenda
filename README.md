@@ -1,15 +1,18 @@
 ### Hi there 👋
-🔭 I’m currently working on web apps (Laravel with Vue.js, SCSS, JQuery, Bootstrap, ...), desktop apps (Electron with Vue.js, Java).
+🔭 I’m currently working on web apps (Laravel with Vue/React, SCSS, JQuery, Bootstrap, Tailwind, ...), desktop apps (Electron (vanilla or with Vue), Java).
 
-🌱 I’m currently learning NativeScript.
+👯 I’m looking to collaborate on see above
 
-💬 Ask me about any scripting/programming language inside this list: Java, JavaScript, ~ LUA, C#. I am NOT a Python-like developer!
+💬 Ask me about any language inside this list: Java, PHP, HTML/(S)CSS/JavaScript, LUA, C#.
 
-📫 How to reach me: [ettore9538@gmail.com](mailto:ettore9538@gmail.com).
+📫 How to reach me: [Contact](mailto:support@infong.tech).
 
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ettore-ongaro-8aa419193" target="_blank">Follow on LinkedIn</a>
+[Follow on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ettore-ongaro-8aa419193)
+
+[Discord (Temporary access)](https://discord.gg/XD72fFfyzB)
 
 [![Ettore's github stats](https://github-readme-stats.vercel.app/api?username=iosonoagenda)](https://github.com/iosonoagenda/github-readme-stats)
+
 <!--
 **iosonoagenda/iosonoagenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
