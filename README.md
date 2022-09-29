@@ -1,9 +1,9 @@
 ### Hi there 👋
-🔭 I’m currently working on web apps (Laravel with Vue/React, SCSS, JQuery, Bootstrap, Tailwind, ...), desktop apps (Electron (vanilla or with Vue), Java).
+🔭 I’m currently working on web apps (Laravel with Vue/React: PHP &ge; 7, Node, Bootstrap/Tailwind), desktop apps (Electron (vanilla or with Vue), Java), sometimes videogames (Unity: C#, Unreal (Graphic part)).
 
 👯 I’m looking to collaborate on see above
 
-💬 Ask me about any language inside this list: Java, PHP, HTML/(S)CSS/JavaScript, LUA, C#, Shell (Linux).
+💬 Ask me about any language inside this list: Java, PHP, HTML, (S)CSS, JavaScript, TypeScript, LUA, C#, Shell (Linux).
 
 📫 How to reach me: [Contact](mailto:support@infong.tech).
 
