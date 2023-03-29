@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on web apps (Laravel with Vue/React: PHP &ge; 7, Node, Bootstrap/Tailwind), desktop apps (Electron (vanilla or with Vue), Java), sometimes videogames (Unity: C#, Unreal (Graphic part)).
+🔭 I’m currently working on web apps (Laravel with Vue/React: PHP &ge; 7, Node, Bootstrap/Tailwind, Python), desktop apps (Electron (vanilla or with Vue), Java), sometimes videogames (Unity: C#, Unreal (Graphic part)).
 
 👯 I’m looking to collaborate on see above
 
