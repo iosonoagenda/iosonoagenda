@@ -7,6 +7,8 @@
 
 📫 How to reach me: [Contact](mailto:support@infong.tech).
 
+<img src="https://www.codewars.com/users/iosonoagenda/badges/large" alt="Codewars" />
+
 <a href="https://app.daily.dev/iosonoagenda"><img src="https://api.daily.dev/devcards/e40c3b2652954d87b3e749e07a38d4c9.png?r=epn" width="400" alt="Ettore Ongaro's Dev Card"/></a>
 
 [Follow on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ettore-ongaro-8aa419193)
