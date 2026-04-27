@@ -1,11 +1,9 @@
 ### Hi there 👋
-🔭 I’m currently working on web apps (Laravel with Vue/React: PHP &ge; 7, Node, Bootstrap/Tailwind, Python), desktop apps (Electron (vanilla or with Vue), Java), sometimes videogames (Unity: C#, Unreal (Graphic part)).
+🔭 I’m currently working on web apps (Laravel with Vue/React: PHP &ge; 7, Node, Bootstrap/Tailwind), desktop apps (Electron (vanilla or with Vue), Java), sometimes videogames (Unity: C#, Unreal (Graphic part)).
 
-👯 I’m looking to collaborate on see above
+💬 Ask me about any language inside this list: PHP, HTML, (S)CSS, JavaScript, TypeScript, Shell (Linux).
 
-💬 Ask me about any language inside this list: Java, PHP, HTML, (S)CSS, JavaScript, TypeScript, LUA, C#, Shell (Linux), Python.
-
-📫 How to reach me: [Contact](mailto:ettore9538@gmail.com).
+📫 How to reach me: [Contact](mailto:ettoreongaro@outlook.com).
 
 <img src="https://www.codewars.com/users/iosonoagenda/badges/large" alt="Codewars" />
 
