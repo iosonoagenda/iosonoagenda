@@ -10,8 +10,8 @@
 <a href="https://app.daily.dev/iosonoagenda"><img src="https://api.daily.dev/devcards/e40c3b2652954d87b3e749e07a38d4c9.png?r=epn" width="400" alt="Ettore Ongaro's Dev Card"/></a>
 
 
+<!-- 
 [![Ettore's github stats](https://github-readme-stats.vercel.app/api?username=iosonoagenda)](https://github.com/iosonoagenda/github-readme-stats)
-<!--
 **iosonoagenda/iosonoagenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
